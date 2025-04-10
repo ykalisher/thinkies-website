@@ -1,0 +1,240 @@
+{
+  "clean_award_names": {
+    "paint_defender": "Best Paint Defender",
+    "nail_defender": "Best Nail Defender",
+    "poa_defender": "Best Point-of-Attack Defender",
+    "switchable_defender": "Best Switchable Defender",
+    "iso_defender": "Best Isolation Defender",
+    "highest_motor": "Highest Motor",
+    "best_hands": "Best Hands"
+  },
+  "winners": {
+    "paint_defender": {
+      "2020": {
+        "first": {
+          "name": "Rudy Gobert",
+          "team": "Utah Jazz",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "second": {
+          "name": "Brook Lopez",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png"
+        },
+        "third": {
+          "name": "Anthony Davis",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+        }
+      },
+      "2022": {
+        "first": {
+          "name": "Rudy Gobert",
+          "team": "Utah Jazz",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "second": {
+          "name": "Jarrett Allen",
+          "team": "Cleveland Cavaliers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png"
+        },
+        "third": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        }
+      }
+    },
+    "nail_defender": {
+      "2020": {
+        "first": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "second": {
+          "name": "Jayson Tatum",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
+        },
+        "third": {
+          "name": "Paul George",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
+          "team": "Los Angeles Clippers"
+        }
+      },
+      "2022": {
+        "third": {
+          "name": "Jayson Tatum",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
+        },
+        "second": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "first": {
+          "name": "Matisse Thybulle",
+          "team": "Philadelphia 76ers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
+        }
+      }
+    },
+    "poa_defender": {
+      "2020": {
+        "first": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "second": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "third": {
+          "name": "Ben Simmons",
+          "team": "Philadelphia 76ers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png"
+        }
+      },
+      "2022": {
+        "first": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "second": {
+          "name": "Mikal Bridges",
+          "team": "Phoenix Suns",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
+        }
+      }
+    },
+    "switchable_defender": {
+      "2020": {
+        "first": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "third": {
+          "name": "Robert Covington",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203496.png"
+        },
+        "second": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        }
+      },
+      "2022": {
+        "first": {
+          "name": "Bam Adebayo",
+          "team": "Miami Heat",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+        },
+        "second": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        }
+      }
+    },
+    "iso_defender": {
+      "2020": {
+        "first": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        },
+        "third": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "second": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        }
+      },
+      "2022": {
+        "first": {
+          "name": "Mikal Bridges",
+          "team": "Phoenix Suns",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
+        },
+        "second": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        }
+      }
+    },
+    "highest_motor": {
+      "2022": {
+        "first": {
+          "name": "Jarred Vanderbilt",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        },
+        "second": {
+          "name": "Gary Payton II",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png"
+        },
+        "third": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        }
+      }
+    },
+    "best_hands": {
+      "2022": {
+        "first": {
+          "name": "Gary “The Gauntlet” Payton II",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png"
+        },
+        "second": {
+          "name": "Nikola Jokić",
+          "team": "Denver Nuggets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
+        },
+        "third": {
+          "name": "Matisse Thybulle",
+          "team": "Philadelphia 76ers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
+        }
+      }
+    }
+  },
+  "descriptions": {
+    "paint_defender": "Who is the best at contesting and deterring shots in and around the paint?",
+    "nail_defender": "Who is the best at preventing the offense from getting into and scoring in the nail area of the floor?",
+    "poa_defender": "Who is the best at containing penetration, navigating screens, and generally defending the primary ball handler?",
+    "switchable_defender": "Who is the best player at defending across multiple different positions?",
+    "iso_defender": "Who is the best defender in isolation situations, from the perimeter to the post?",
+    "highest_motor": "Who are the players who play a lot and are constantly active on defensive possessions?",
+    "best_hands": "Who is the player with the best hands?"
+  }
+}

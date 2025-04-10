@@ -2,11 +2,18 @@
 	
 {% block content %}
 	<h1>{{ award }} {{ year }}</h1>
-	<p>Welcome to the unofficial <i>The Thinkies</i> website!</p>
 	
-	<h3>Winner: {{ first }}</h3>
 	
-	<p><b>Second Place: {{ second }}</b></p>
-	<p><b>Third Place: {{ third }}</b></p>
+	<p><i>{{ description }}</i></p>
+	
+	<h2>Winner: {{ first['name'] }}</h2>
+	<p><i>{{ first['team'] }}</i></p>
+	<img src="{{ first['headshot_url'] }}" class="playerheadshot"/>
+	<h3>Second Place: {{ second['name'] }}</h3>
+	<p><i>{{ second['team'] }} </i></p>
+	<img src="{{ second['headshot_url'] }}" class="playerheadshot"/>
+	<h3>Third Place: {{ third['name'] }}</h3>
+	<p><i>{{ third['team'] }} </i></p>
+	<img src="{{ third['headshot_url'] }}" class="playerheadshot"/>
 		
 {% endblock %}
