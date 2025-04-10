@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>The Thinkies</title>
+		<link rel="icon" href="{{ url_for('static', filename='thinking_basketball_logo_icon.ico') }}" type="x-icon">
+		<link rel="shortcut icon" href="{{ url_for('static', filename='thinking_basketball_logo.png') }}" type="image/png">
+		<link rel="apple-touch-icon" href="{{ url_for('static', filename='thinking_basketball_logo.png') }}" type="image/png">
+		
+		<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+	</head>
+	
+	<body>
+		<h1>Hello, world!</h1>
+		<p>Welcome to the unofficial <i>The Thinkies</i> website!</p>
+		
+		<img 
+			src="{{ url_for('static', filename='thinking_basketball_logo.png') }}"
+			width="64px" height="64px"
+		>
+	</body>
+	
+</html>
