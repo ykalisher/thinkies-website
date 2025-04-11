@@ -20,7 +20,17 @@ def winners_page(award, year):
 	winners = data['winners'][award][str(year)]
 	first, second, third = winners['first'], winners['second'], winners['third']
 	description = data['descriptions'][award]
-	return render_template('winners_page.html', award=clean_award_name, year=year, first=first, second=second, third=third, description=description)
+	episode_link = data['winners'][award][str(year)]['link']
+	return render_template(
+		'winners_page.html', 
+		award=clean_award_name, 
+		year=year, 
+		first=first, 
+		second=second, 
+		third=third, 
+		description=description,
+		episode_link=episode_link,
+	)
 	
 	
 	
