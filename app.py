@@ -13,6 +13,7 @@ def index():
 	
 @app.get('/winners/<award>/<int:year>')
 def winners_page(award, year):
+	award = award.replace('-', '_')
 	if award not in data['clean_award_names'] or str(year) not in data['winners'][award]:
 		abort(404)
 	

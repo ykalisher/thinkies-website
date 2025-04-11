@@ -6,7 +6,8 @@
     "switchable_defender": "Best Switchable Defender",
     "iso_defender": "Best Isolation Defender",
     "highest_motor": "Highest Motor",
-    "best_hands": "Best Hands"
+    "best_hands": "Best Hands",
+    "screen_nav": "Screen Navigation"
   },
   "winners": {
     "paint_defender": {
@@ -45,6 +46,24 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
         },
         "link": "https://overcast.fm/+AAOPduIx4v0/50:37"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/1:05:29",
+        "third": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "first": {
+          "name": "Brook Lopez",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png"
+        },
+        "second": {
+          "name": "Jaren Jackson Jr.",
+          "team": "Memphis Grizzlies",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png"
+        }
       }
     },
     "nail_defender": {
@@ -91,12 +110,16 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
         },
         "second": {
-
+          "name": "Herb Jones",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
         },
         "third": {
-
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
         },
-        "link": ""
+        "link": "https://overcast.fm/+AAOPdv9Wa18/7:10"
       }
     },
     "poa_defender": {
@@ -135,6 +158,24 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
         },
         "link": "https://overcast.fm/+AAOPduIx4v0/4:43"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/19:49",
+        "first": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        }
       }
     },
     "switchable_defender": {
@@ -173,6 +214,24 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
         },
         "link": "https://overcast.fm/+AAOPduIx4v0/19:48"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/56:39",
+        "third": {
+          "name": "Jaden McDaniels",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+        },
+        "second": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "first": {
+          "name": "Bam Adebayo",
+          "team": "Miami Heat",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+        }
       }
     },
     "iso_defender": {
@@ -211,6 +270,24 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
         },
         "link": "https://overcast.fm/+AAOPduIx4v0/10:24"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/47:56",
+        "third": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+          "name": "Jaden McDaniels",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+        },
+        "first": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        }
       }
     },
     "highest_motor": {
@@ -231,6 +308,24 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
         },
         "link": "https://overcast.fm/+AAOPduIx4v0/29:18"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/43:34",
+        "third": {
+          "name": "Mikal Bridges, Draymond Green, Jrue Holiday",
+          "team": "Three-way Tie",
+          "headshot_url": ""
+        },
+        "second": {
+          "name": "Jose Alvarado",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png"
+        },
+        "first": {
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        }
       }
     },
     "best_hands": {
@@ -251,6 +346,44 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
         },
         "link": "https://overcast.fm/+AAOPduIx4v0/36:49"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/12:41",
+        "first": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "second": {
+          "name": "Jose Alvarado",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png"
+        },
+        "third": {
+          "name": "Fred Vanvleet",
+          "team": "Toronto Raptors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png"
+        }
+      }
+    },
+    "screen_nav": {
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/37:16",
+        "first": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+          "name": "Kentavious Caldwell-Pop",
+          "team": "Denver Nuggets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png"
+        },
+        "third": {
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        }
       }
     }
   },
@@ -261,6 +394,7 @@
     "switchable_defender": "Who is the best player at defending across multiple different positions?",
     "iso_defender": "Who is the best defender in isolation situations, from the perimeter to the post?",
     "highest_motor": "Who are the players who play a lot and are constantly active on defensive possessions?",
-    "best_hands": "Who is the player with the best hands?"
+    "best_hands": "Who is the player with the most active, accurate, disruptive hands?",
+    "screen_nav": "Who is the best at chasing some around screens both on- and off-ball?"
   }
 }
