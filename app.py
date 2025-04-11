@@ -12,7 +12,7 @@ def index():
 		y: data['years'][y]
 		for y in sorted(data['years'])[::-1]
 	}
-	return render_template('Index.html', years=year_data_reverse, award_names=data['clean_award_names'])
+	return render_template('index.html', years=year_data_reverse, award_names=data['clean_award_names'])
 	
 	
 @app.get('/winners/<award>/<int:year>')
