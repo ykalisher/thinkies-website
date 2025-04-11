@@ -11,21 +11,21 @@
 	
 	<body>
 		{% block content %}{% endblock %}
+	
+	
+		<footer>
+			<a href="https://www.patreon.com/ThinkingBasketball" target="_blank">
+				<img src="{{ url_for('static', filename='thinking_basketball_logo.png') }}" class="applogo"/>
+			</a>
+			<a href="https://open.spotify.com/show/12kpkAvUj6LGxzViDIH0qH" target="_blank">
+				<img src="{{ url_for('static', filename='spotify_app_logo.png') }}" class="applogo"/>
+			</a>
+			<a href="https://podcasts.apple.com/us/podcast/thinking-basketball/id1428290303" target="_blank">
+				<img src="{{ url_for('static', filename='ios_podcast_app_logo.png') }}" class="applogo"/>
+			</a>
+			<a href="https://www.youtube.com/@moreTB" target="_blank">
+				<img src="{{ url_for('static', filename='youtube_app_logo.png')}}" class="applogo"/>
+			</a>
+		</footer>
 	</body>
-	
-	<footer>
-		<a href="https://www.patreon.com/ThinkingBasketball" target="_blank">
-			<img src="{{ url_for('static', filename='thinking_basketball_logo.png') }}" class="applogo"/>
-		</a>
-		<a href="https://open.spotify.com/show/12kpkAvUj6LGxzViDIH0qH" target="_blank">
-			<img src="{{ url_for('static', filename='spotify_app_logo.png') }}" class="applogo"/>
-		</a>
-		<a href="https://podcasts.apple.com/us/podcast/thinking-basketball/id1428290303" target="_blank">
-			<img src="{{ url_for('static', filename='ios_podcast_app_logo.png') }}" class="applogo"/>
-		</a>
-		<a href="https://www.youtube.com/@moreTB" target="_blank">
-			<img src="{{ url_for('static', filename='youtube_app_logo.png')}}" class="applogo"/>
-		</a>
-	</footer>
-	
 </html>

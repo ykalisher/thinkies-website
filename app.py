@@ -8,7 +8,11 @@ with open('data.json', 'r') as f:
 @app.get('/')
 def index():
 	# TODO: Menu of seasons, winners for this year, best
-	return render_template('Index.html')
+	year_data_reverse = {
+		y: data['years'][y]
+		for y in sorted(data['years'])[::-1]
+	}
+	return render_template('Index.html', years=year_data_reverse, award_names=data['clean_award_names'])
 	
 	
 @app.get('/winners/<award>/<int:year>')

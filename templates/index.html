@@ -1,7 +1,16 @@
 {% extends "base.html" %}	
 	
 {% block content %}
-	<h1>Hello, world!</h1>
-	<p>Welcome to the unofficial <i>The Thinkies</i> website!</p>
+	
+	<p>Welcome to the unofficial website for <i>The Thinkies</i>, the annual defensive awards from the <i>Thinking Basketball</i> podcast.</p>
+	
+	{% for year in years %}
+	<h2>{{ year }} Awards</h2>
+	<ul>
+		{% for award in years[year] %}
+		<li><a href="{{ url_for('winners_page', award=award, year=year) }}">{{ award_names[award] }}</a></li>
+		{% endfor %}
+	</ul>
+	{% endfor %}
 	
 {% endblock %}

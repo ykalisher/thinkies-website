@@ -1,6 +1,7 @@
 {% extends "base.html" %}	
 	
 {% block content %}
+	<a href="{{ url_for('index') }}">Home</a>
 	<h1>{{ award }} {{ year }}</h1>
 	<a href="{{ episode_link }}" target="_blank"><p><i>Episode link</i></p></a>
 	
