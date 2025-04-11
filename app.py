@@ -19,6 +19,7 @@ def winners_page(award, year):
 	
 	clean_award_name = data['clean_award_names'][award]
 	winners = data['winners'][award][str(year)]
+	# TODO: Better handling for ties
 	first, second, third = winners['first'], winners['second'], winners['third']
 	description = data['descriptions'][award]
 	episode_link = data['winners'][award][str(year)]['link']

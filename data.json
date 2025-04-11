@@ -7,7 +7,9 @@
     "iso_defender": "Best Isolation Defender",
     "highest_motor": "Highest Motor",
     "best_hands": "Best Hands",
-    "screen_nav": "Screen Navigation"
+    "screen_nav": "Screen Navigation",
+    "perim_helper": "Best Perimeter Helper",
+    "vers_defender": "Most Versatile Defender"
   },
   "winners": {
     "paint_defender": {
@@ -63,6 +65,24 @@
           "name": "Jaren Jackson Jr.",
           "team": "Memphis Grizzlies",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png"
+        }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/1:10:54",
+        "third": {
+          "name": "Anthony Davis",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+        },
+        "first": {
+          "name": "Rudy Gobert",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "second": {
+          "name": "Victor Wembanyama",
+          "team": "San Antonio Spurs",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
         }
       }
     },
@@ -175,6 +195,24 @@
           "name": "Marcus Smart",
           "team": "Boston Celtics",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/21:53",
+        "third": {
+          "name": "Jaden McDaniels",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+        },
+        "first": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "second": {
+          "name": "Herb Jones",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
         }
       }
     },
@@ -326,6 +364,24 @@
           "team": "Los Angeles Lakers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
         }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/3:18",
+        "second": {
+          "name": "Alex Caruso, Jose Alvarado, Jrue Holiday",
+          "team": "Three-way Tie",
+          "headshot_url": ""
+        },
+        "first": {
+          "name": "Jalen Suggs",
+          "team": "Orlando Magic",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png"
+        },
+        "third": {
+          "name": "",
+          "team": "",
+          "headshot_url": ""
+        }
       }
     },
     "best_hands": {
@@ -364,6 +420,24 @@
           "team": "Toronto Raptors",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png"
         }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/12:28",
+        "third": {
+          "name": "Fred Vanvleet",
+          "team": "Houston Rockets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png"
+        },
+        "second": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "first": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        }
       }
     },
     "screen_nav": {
@@ -385,6 +459,46 @@
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
         }
       }
+    },
+    "perim_helper": {
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/40:54",
+        "third": {
+          "name": "Paul George, Jrue Holiday, Andrew Nembhard, Jonathan Isaac",
+          "team": "4-way Tie",
+          "headshot_url": ""
+        },
+        "second": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        },
+        "first": {
+          "name": "Herb Jones",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
+        }
+      }
+    },
+    "vers_defender": {
+      "2024": {
+        "third": {
+          "name": "Bam Adebayo",
+          "team": "Miami Heat",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+        },
+        "link": "https://overcast.fm/+AAOPduwqdXw/54:23",
+        "second": {
+          "name": "Jonathan Isaac",
+          "team": "Orlando Magic",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png"
+        },
+        "first": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        }
+      }
     }
   },
   "descriptions": {
@@ -393,8 +507,10 @@
     "poa_defender": "Who is the best at containing penetration, navigating screens, and generally defending the primary ball handler?",
     "switchable_defender": "Who is the best player at defending across multiple different positions?",
     "iso_defender": "Who is the best defender in isolation situations, from the perimeter to the post?",
-    "highest_motor": "Who are the players who play a lot and are constantly active on defensive possessions?",
-    "best_hands": "Who is the player with the most active, accurate, disruptive hands?",
-    "screen_nav": "Who is the best at chasing some around screens both on- and off-ball?"
+    "highest_motor": "Who is the player who plays a lot and is constantly active on defensive possessions?",
+    "best_hands": "Who is the player with the most active, accurate, disruptive hands in a short space?",
+    "screen_nav": "Who is the best at chasing some around screens both on- and off-ball?",
+    "perim_helper": "Who is the best at getting in passing lanes, zoning up the weak side, and generally helping from the nail area and edges of the court?",
+    "vers_defender": "Who can succeed in the widest variety of coverages and guard multiple positions if necessary?"
   }
 }
