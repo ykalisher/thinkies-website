@@ -25,7 +25,8 @@
           "name": "Anthony Davis",
           "team": "Los Angeles Lakers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
-        }
+        },
+        "link": ""
       },
       "2022": {
         "first": {
@@ -42,7 +43,8 @@
           "name": "Giannis Antentokounmpo",
           "team": "Milwaukee Bucks",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
-        }
+        },
+        "link": ""
       }
     },
     "nail_defender": {
@@ -61,7 +63,8 @@
           "name": "Paul George",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
           "team": "Los Angeles Clippers"
-        }
+        },
+        "link": ""
       },
       "2022": {
         "third": {
@@ -78,7 +81,22 @@
           "name": "Matisse Thybulle",
           "team": "Philadelphia 76ers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
-        }
+        },
+        "link": ""
+      },
+      "2023": {
+        "first": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+
+        },
+        "third": {
+
+        },
+        "link": ""
       }
     },
     "poa_defender": {
@@ -97,7 +115,8 @@
           "name": "Ben Simmons",
           "team": "Philadelphia 76ers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png"
-        }
+        },
+        "link": ""
       },
       "2022": {
         "first": {
@@ -114,7 +133,8 @@
           "name": "Mikal Bridges",
           "team": "Phoenix Suns",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
-        }
+        },
+        "link": ""
       }
     },
     "switchable_defender": {
@@ -133,7 +153,8 @@
           "name": "Kawhi Leonard",
           "team": "Los Angeles Clippers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
-        }
+        },
+        "link": ""
       },
       "2022": {
         "first": {
@@ -150,7 +171,8 @@
           "name": "Marcus Smart",
           "team": "Boston Celtics",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
-        }
+        },
+        "link": ""
       }
     },
     "iso_defender": {
@@ -169,7 +191,8 @@
           "name": "Marcus Smart",
           "team": "Boston Celtics",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
-        }
+        },
+        "link": ""
       },
       "2022": {
         "first": {
@@ -186,7 +209,8 @@
           "name": "Marcus Smart",
           "team": "Boston Celtics",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
-        }
+        },
+        "link": ""
       }
     },
     "highest_motor": {
@@ -205,7 +229,8 @@
           "name": "Giannis Antentokounmpo",
           "team": "Milwaukee Bucks",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
-        }
+        },
+        "link": ""
       }
     },
     "best_hands": {
@@ -224,7 +249,8 @@
           "name": "Matisse Thybulle",
           "team": "Philadelphia 76ers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
-        }
+        },
+        "link": ""
       }
     }
   },
