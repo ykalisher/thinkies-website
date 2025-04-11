@@ -84,6 +84,24 @@
           "team": "San Antonio Spurs",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
         }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/54:26",
+        "second": {
+          "name": "Rudy Gobert",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "first": {
+          "name": "Victor Wembanyama",
+          "team": "San Antonio Spurs",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+        },
+        "third": {
+          "name": "Anthony Davis",
+          "team": "Dallas Mavericks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+        }
       }
     },
     "nail_defender": {
@@ -213,6 +231,24 @@
           "name": "Herb Jones",
           "team": "New Orleans Pelicans",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
+        }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/18:28",
+        "third": {
+          "name": "Kris Dunn",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+        },
+        "second": {
+          "name": "Amen Thompson",
+          "team": "Houston Rockets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png"
+        },
+        "first": {
+          "name": "Luguentz Dort",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png"
         }
       }
     },
@@ -382,6 +418,24 @@
           "team": "",
           "headshot_url": ""
         }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/3:35",
+        "second": {
+          "name": "Toumani Camara",
+          "team": "Portland Trail Blazers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png"
+        },
+        "first": {
+          "name": "Kris Dunn",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+        },
+        "third": {
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        }
       }
     },
     "best_hands": {
@@ -438,6 +492,24 @@
           "team": "Los Angeles Clippers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
         }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/12:02",
+        "first": {
+          "name": "Dyson Daniels",
+          "team": "Atlanta Hawks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+        },
+        "third": {
+          "name": "Amen Thompson",
+          "team": "Houston Rockets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png"
+        },
+        "second": {
+          "name": "Kris Dunn",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+        }
       }
     },
     "screen_nav": {
@@ -478,6 +550,24 @@
           "team": "New Orleans Pelicans",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
         }
+      },
+      "2025": {
+        "third": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "link": "https://overcast.fm/+AAOPdvgqUzw/30:40",
+        "first": {
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png",
+          "name": "Jalen Williams",
+          "team": "Oklahoma City Thunder"
+        },
+        "second": {
+          "name": "Dyson Daniels",
+          "team": "Atlanta Hawks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+        }
       }
     },
     "vers_defender": {
@@ -492,6 +582,24 @@
           "name": "Jonathan Isaac",
           "team": "Orlando Magic",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png"
+        },
+        "first": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/41:21",
+        "third": {
+          "name": "Evan Mobley",
+          "team": "Cleveland Cavaliers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png"
+        },
+        "second": {
+          "name": "Toumani Camara",
+          "team": "Portland Trail Blazers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png"
         },
         "first": {
           "name": "Draymond Green",
