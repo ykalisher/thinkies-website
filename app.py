@@ -7,7 +7,6 @@ with open('data.json', 'r') as f:
 	
 @app.get('/')
 def index():
-	# TODO: Menu of seasons, winners for this year, best
 	year_data_reverse = {
 		y: data['years'][y]
 		for y in sorted(data['years'])[::-1]
@@ -31,16 +30,38 @@ def winners_page(award, year):
 		'winners_page.html', 
 		award=clean_award_name, 
 		year=year, 
-		first=first, 
-		second=second, 
-		third=third, 
+		players={
+			'first': first,
+			'second': second,
+			'third': third,
+		},
 		description=description,
 		episode_link=episode_link,
 	)
 	
+@app.get('/top-winners')
+def top_winners():
+	return render_template(
+		'top_winners.html',
+		players=data['top_5']
+	)
 	
+@app.get('/player-wins/<name>')
+def player_wins(name):
+	name = name.replace('_', ' ')
+	player = data['players'][name]
+	return render_template(
+		'player_wins.html',
+		name=name,
+		player=player,
+		award_names=data['clean_award_names'],
+		points=len(player['first']) * 3 + len(player['second']) * 2 + len(player['third']),
+	)
+	
+@app.get('/player-index')
+def player_index():
+	return render_template('player_index_page.html', names=sorted(data['players']))
 	
 @app.errorhandler(404)
 def not_found(error):
-	#handle the error, for example a custom 404 page.
 	return render_template('404.html'), 404

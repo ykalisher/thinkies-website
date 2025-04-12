@@ -4,6 +4,9 @@
 	
 	<p>Welcome to the unofficial website for <i>The Thinkies</i>, the annual defensive awards from the <i>Thinking Basketball</i> podcast.</p>
 	
+	<i><p><a href="{{url_for('top_winners')}}">Top Thinkies Winners of All Time</a></p></i>
+	<i><p><a href="{{url_for('player_index')}}">Player Index</a></p></i>
+	
 	{% for year in years %}
 	<h2>{{ year }} Awards</h2>
 	<ul>

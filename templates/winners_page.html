@@ -1,21 +1,16 @@
-{% extends "base.html" %}	
+{% extends "specific_page.html" %}	
 	
-{% block content %}
-	<a href="{{ url_for('index') }}">Home</a>
+{% block specifics %}
 	<h1>{{ award }} {{ year }}</h1>
 	<a href="{{ episode_link }}" target="_blank"><p><i>Episode link</i></p></a>
 	
 	
 	<p><i>{{ description }}</i></p>
 	
-	<h2>Winner: {{ first['name'] }}</h2>
-	<p><i>{{ first['team'] }}</i></p>
-	<img src="{{ first['headshot_url'] }}" class="playerheadshot"/>
-	<h3>Second Place: {{ second['name'] }}</h3>
-	<p><i>{{ second['team'] }} </i></p>
-	<img src="{{ second['headshot_url'] }}" class="playerheadshot"/>
-	<h3>Third Place: {{ third['name'] }}</h3>
-	<p><i>{{ third['team'] }} </i></p>
-	<img src="{{ third['headshot_url'] }}" class="playerheadshot"/>
-		
+	{% for place in players %}
+	<p><span class="rankingtext">{{ place.title() }}:</span> <span class="playernametext"><a href="{{ url_for('player_wins', name=players[place]['name'].replace(' ', '_')) }}">{{ players[place]['name'] }}</a></span></p>
+	<p><i>{{ players[place]['team'] }}</i></p>
+	<img src="{{ players[place]['headshot_url'] }}" class="playerheadshot"/>
+	{% endfor %}
+
 {% endblock %}

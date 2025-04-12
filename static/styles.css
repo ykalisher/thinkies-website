@@ -1,11 +1,24 @@
+a {
+	color: rgb(173, 237, 237);
+}
+
 body {
 	background-color: black;
 	color: white;
 	font-family: Montserrat, sans-serif;
+	font-size: 18px;
 }
-a {
-	color: paleturquoise;
+
+h1 {
+	color: #f2f2f3;
 }
+
+h2 {
+	color: #f2f2f3;
+}
+
+
+
 .applogo {
 	width: 32px;
 	height: 32px;
@@ -16,3 +29,13 @@ a {
 	height: auto;
 }
 
+.playernametext {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.rankingtext {
+	color: #e7c892;
+	font-size: 24px;
+	font-weight: bold;
+}

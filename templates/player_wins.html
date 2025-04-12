@@ -1,0 +1,26 @@
+{% extends "specific_page.html" %}	
+	
+{% block specifics %}
+	
+	<h1>{{ name }}</h1>
+	
+	<p><i>{{ points }} Thinkies Points</i></p>
+	
+	<img src="{{ player['headshot_url'] }}" class="playerheadshot" />
+	
+	
+	{% for place in player %}
+		{% if not place == 'headshot_url' and player[place] != [] %}
+			<p class="rankingtext">{{ place.title() }} place wins:</p>
+			<ul>
+			{% for award in player[place] %}
+				<li><a href="{{ url_for('winners_page', award=award[0], year=award[1]) }}">{{ award_names[award[0]] }} {{ award[1] }}</a></li>
+			{% endfor %}
+			</ul>
+		{% endif %}
+	{% endfor %}
+	
+	
+	
+	
+{% endblock %}

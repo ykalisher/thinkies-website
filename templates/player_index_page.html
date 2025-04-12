@@ -1,0 +1,13 @@
+{% extends "specific_page.html" %}	
+	
+{% block specifics %}
+	
+	<h1>Player Index</h1>
+	
+	<ul>
+		{% for name in names %}
+			<li><a href="{{ url_for('player_wins', name=name.replace(' ', '_'))}}">{{name}}</a></li>
+		{% endfor %}
+	</ul>	
+	
+{% endblock %}

@@ -1,0 +1,15 @@
+{% extends "specific_page.html" %}	
+	
+{% block specifics %}
+	<h1>Top Thinkies Winners of All Time</h1>
+	<p><i>First place wins are worth 3 points, second place worth 2, third place worth 1</i></p>
+	
+	{% for place in players %}
+	
+	
+	<p><span class="rankingtext">{{ place.title() }}:</span> <span class="playernametext"><a href="{{ url_for('player_wins', name=players[place]['name'].replace(' ', '_')) }}">{{ players[place]['name'] }}</a> - {{ players[place]['points'] }} points</span></p>
+	<img src="{{ players[place]['headshot_url'] }}" class="playerheadshot"/>
+	
+	{% endfor %}
+
+{% endblock %}
