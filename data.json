@@ -1481,5 +1481,23 @@
       "points": 12,
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
     }
-  }
+  },
+  "best_peaks": [
+    {
+      "name": "Test Player",
+      "range_bottom": 1,
+      "range_top": 2,
+      "stats": {
+        "plus_minus": 20,
+        "on_off": 30,
+        "relative_ts": 5,
+        "notable_stat": "ppg",
+        "notable_stat_value": 50
+      },
+      "season": 2000,
+      "team": "Test Team",
+      "headshot_url": "temp",
+      "episode_link": "temp"
+    }
+  ]
 }

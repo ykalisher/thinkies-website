@@ -1,0 +1,14 @@
+{% extends "base.html" %}	
+	
+{% block content %}
+<h1>Best Peaks of the 21st Century</h1>
+
+{% for i in range(1) %}
+<h2>{{i + 1}}. {{players[i]['name']}}</h2>
+<img src="{{ players[i]['headshot_url'] }}" class="playerheadshot" />
+<p><i>{{players[i]['season']}} {{players[i]['team']}}</i></p>
+<p>Range: {{players[i]['range_bottom']}}-{{players[i]['range_top']}}<p>
+<a href="{{ players[i]['episode_link'] }}" target="_blank"><p><i>Episode link</i></p></a>
+{% endfor %}
+
+{% endblock %}
