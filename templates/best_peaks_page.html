@@ -8,6 +8,14 @@
 <img src="{{ players[i]['headshot_url'] }}" class="playerheadshot" />
 <p><i>{{players[i]['season']}} {{players[i]['team']}}</i></p>
 <p>Range: {{players[i]['range_bottom']}}-{{players[i]['range_top']}}<p>
+
+<table>
+	<tr><th></th><th>Adjusted Plus/Minus</th><th>On/off</th><th>Relative TS%</th><th>Points Per 36</th></tr>
+	<tr><td>Regular Season</td></tr>
+	<tr><td>Playoffs</td></tr>
+	
+</table>
+	
 <a href="{{ players[i]['episode_link'] }}" target="_blank"><p><i>Episode link</i></p></a>
 {% endfor %}
 
