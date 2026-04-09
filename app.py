@@ -62,10 +62,6 @@ def player_wins(name):
 def player_index():
 	return render_template('player_index_page.html', names=sorted(data['players']))
 	
-
-@app.get('/best_peaks')
-def best_peaks():
-	return render_template('best_peaks_page.html', players=data['best_peaks'])
 	
 @app.errorhandler(404)
 def not_found(error):

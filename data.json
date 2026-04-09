@@ -102,6 +102,24 @@
           "team": "Dallas Mavericks",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
         }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/57:42",
+        "third": {
+          "name": "Chet Holmgren",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png"
+        },
+        "second": {
+          "name": "Rudy Gobert",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "first": {
+          "name": "Victor Wembanyama",
+          "team": "San Antonio Spurs",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+        }
       }
     },
     "nail_defender": {
@@ -249,6 +267,24 @@
           "name": "Luguentz Dort",
           "team": "Oklahoma City Thunder",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/23:22",
+        "third": {
+          "name": "Alex Caruso",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "second": {
+          "name": "Luguentz Dort",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png"
+        },
+        "first": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
         }
       }
     },
@@ -436,6 +472,24 @@
           "team": "Los Angeles Lakers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
         }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/4:02",
+        "third": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+        },
+        "second": {
+          "name": "Hugo Gonzales",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642864.png"
+        },
+        "first": {
+          "name": "Derrick White",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"
+        }
       }
     },
     "best_hands": {
@@ -510,6 +564,24 @@
           "team": "Los Angeles Clippers",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
         }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/12:01",
+        "third": {
+          "name": "Dyson Daniels",
+          "team": "Atlanta Hawks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+        },
+        "second": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+        },
+        "first": {
+          "name": "Cason Wallace",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641717.png"
+        }
       }
     },
     "screen_nav": {
@@ -568,6 +640,24 @@
           "team": "Atlanta Hawks",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
         }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/1:05:16",
+        "third": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+        },
+        "second": {
+          "name": "Alex Caruso",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "first": {
+          "name": "Derrick White",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"
+        }
       }
     },
     "vers_defender": {
@@ -605,6 +695,24 @@
           "name": "Draymond Green",
           "team": "Golden State Warriors",
           "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/39:12",
+        "third": {
+          "name": "OG Anunoby",
+          "team": "New York Knicks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png"
+        },
+        "second": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "first": {
+          "name": "Scottie Barnes",
+          "team": "Toronto Raptors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png"
         }
       }
     }
@@ -663,6 +771,14 @@
       "perim_helper",
       "poa_defender",
       "vers_defender"
+    ],
+    "2026": [
+      "best_hands",
+      "highest_motor",
+      "paint_defender",
+      "perim_helper",
+      "poa_defender",
+      "vers_defender"
     ]
   },
   "players": {
@@ -685,6 +801,10 @@
         [
           "paint_defender",
           "2025"
+        ],
+        [
+          "paint_defender",
+          "2026"
         ]
       ],
       "third": [
@@ -815,6 +935,10 @@
         [
           "switchable_defender",
           "2023"
+        ],
+        [
+          "vers_defender",
+          "2026"
         ]
       ],
       "third": [
@@ -838,6 +962,10 @@
         [
           "paint_defender",
           "2025"
+        ],
+        [
+          "paint_defender",
+          "2026"
         ]
       ],
       "second": [
@@ -850,6 +978,21 @@
 
       ],
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+    },
+    "Chet Holmgren": {
+      "first": [
+
+      ],
+      "second": [
+
+      ],
+      "third": [
+        [
+          "paint_defender",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png"
     },
     "Marcus Smart": {
       "first": [
@@ -1082,10 +1225,17 @@
         [
           "best_hands",
           "2024"
+        ],
+        [
+          "perim_helper",
+          "2026"
         ]
       ],
       "third": [
-
+        [
+          "poa_defender",
+          "2026"
+        ]
       ],
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
     },
@@ -1140,7 +1290,10 @@
         ]
       ],
       "second": [
-
+        [
+          "poa_defender",
+          "2026"
+        ]
       ],
       "third": [
 
@@ -1185,6 +1338,31 @@
         ]
       ],
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+    },
+    "Ausar Thompson": {
+      "first": [
+        [
+          "poa_defender",
+          "2026"
+        ]
+      ],
+      "second": [
+        [
+          "best_hands",
+          "2026"
+        ]
+      ],
+      "third": [
+        [
+          "highest_motor",
+          "2026"
+        ],
+        [
+          "perim_helper",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
     },
     "Kawhi Leonard": {
       "first": [
@@ -1324,6 +1502,40 @@
       ],
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png"
     },
+    "Derrick White": {
+      "first": [
+        [
+          "highest_motor",
+          "2026"
+        ],
+        [
+          "perim_helper",
+          "2026"
+        ]
+      ],
+      "second": [
+
+      ],
+      "third": [
+
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"
+    },
+    "Hugo Gonzales": {
+      "first": [
+
+      ],
+      "second": [
+        [
+          "highest_motor",
+          "2026"
+        ]
+      ],
+      "third": [
+
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642864.png"
+    },
     "Nikola Jokić": {
       "first": [
 
@@ -1372,9 +1584,27 @@
         ]
       ],
       "third": [
-
+        [
+          "best_hands",
+          "2026"
+        ]
       ],
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+    },
+    "Cason Wallace": {
+      "first": [
+        [
+          "best_hands",
+          "2026"
+        ]
+      ],
+      "second": [
+
+      ],
+      "third": [
+
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641717.png"
     },
     "Kentavious Caldwell-Pope": {
       "first": [
@@ -1453,6 +1683,36 @@
         ]
       ],
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png"
+    },
+    "Scottie Barnes": {
+      "first": [
+        [
+          "vers_defender",
+          "2026"
+        ]
+      ],
+      "second": [
+
+      ],
+      "third": [
+
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png"
+    },
+    "OG Anunoby": {
+      "first": [
+
+      ],
+      "second": [
+
+      ],
+      "third": [
+        [
+          "vers_defender",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png"
     }
   },
   "top_5": {
@@ -1463,7 +1723,7 @@
     },
     "second": {
       "name": "Draymond Green",
-      "points": 16,
+      "points": 18,
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
     },
     "third": {
@@ -1472,32 +1732,15 @@
       "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
     },
     "fourth": {
-      "name": "Rudy Gobert",
+      "name": "Marcus Smart",
       "points": 14,
-      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
     },
     "fifth": {
-      "name": "Marcus Smart",
-      "points": 12,
-      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+      "name": "Rudy Gobert",
+      "points": 13,
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
     }
-  },
-  "best_peaks": [
-    {
-      "name": "Test Player",
-      "range_bottom": 1,
-      "range_top": 2,
-      "stats": {
-        "plus_minus": 20,
-        "on_off": 30,
-        "relative_ts": 5,
-        "notable_stat": "ppg",
-        "notable_stat_value": 50
-      },
-      "season": 2000,
-      "team": "Test Team",
-      "headshot_url": "temp",
-      "episode_link": "temp"
-    }
-  ]
+    
+  }
 }
