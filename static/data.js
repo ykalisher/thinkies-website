@@ -1,0 +1,1634 @@
+// Embedded award data - generated from data.json
+const DATA = {
+  "clean_award_names": {
+    "paint_defender": "Best Paint Defender",
+    "nail_defender": "Best Nail Defender",
+    "poa_defender": "Best Point-of-Attack Defender",
+    "switchable_defender": "Best Switchable Defender",
+    "iso_defender": "Best Isolation Defender",
+    "highest_motor": "Highest Motor",
+    "best_hands": "Best Hands",
+    "screen_nav": "Screen Navigation",
+    "perim_helper": "Best Perimeter Helper",
+    "vers_defender": "Most Versatile Defender"
+  },
+  "winners": {
+    "paint_defender": {
+      "2020": {
+        "first": {
+          "name": "Rudy Gobert",
+          "team": "Utah Jazz",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "second": {
+          "name": "Brook Lopez",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png"
+        },
+        "third": {
+          "name": "Anthony Davis",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+        },
+        "link": "https://overcast.fm/+AAOPdtDNhxc/7:58"
+      },
+      "2022": {
+        "first": {
+          "name": "Rudy Gobert",
+          "team": "Utah Jazz",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "second": {
+          "name": "Jarrett Allen",
+          "team": "Cleveland Cavaliers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png"
+        },
+        "third": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "link": "https://overcast.fm/+AAOPduIx4v0/50:37"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/1:05:29",
+        "third": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "first": {
+          "name": "Brook Lopez",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png"
+        },
+        "second": {
+          "name": "Jaren Jackson Jr.",
+          "team": "Memphis Grizzlies",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png"
+        }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/1:10:54",
+        "third": {
+          "name": "Anthony Davis",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+        },
+        "first": {
+          "name": "Rudy Gobert",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "second": {
+          "name": "Victor Wembanyama",
+          "team": "San Antonio Spurs",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+        }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/54:26",
+        "second": {
+          "name": "Rudy Gobert",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "first": {
+          "name": "Victor Wembanyama",
+          "team": "San Antonio Spurs",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+        },
+        "third": {
+          "name": "Anthony Davis",
+          "team": "Dallas Mavericks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/57:42",
+        "third": {
+          "name": "Chet Holmgren",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png"
+        },
+        "second": {
+          "name": "Rudy Gobert",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+        },
+        "first": {
+          "name": "Victor Wembanyama",
+          "team": "San Antonio Spurs",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+        }
+      }
+    },
+    "nail_defender": {
+      "2020": {
+        "first": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "second": {
+          "name": "Jayson Tatum",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
+        },
+        "third": {
+          "name": "Paul George",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png",
+          "team": "Los Angeles Clippers"
+        },
+        "link": "https://overcast.fm/+AAOPdtDNhxc/15:15"
+      },
+      "2022": {
+        "third": {
+          "name": "Jayson Tatum",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
+        },
+        "second": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "first": {
+          "name": "Matisse Thybulle",
+          "team": "Philadelphia 76ers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
+        },
+        "link": "https://overcast.fm/+AAOPduIx4v0/46:06"
+      },
+      "2023": {
+        "first": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+          "name": "Herb Jones",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
+        },
+        "third": {
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        },
+        "link": "https://overcast.fm/+AAOPdv9Wa18/7:10"
+      }
+    },
+    "poa_defender": {
+      "2020": {
+        "first": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "second": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "third": {
+          "name": "Ben Simmons",
+          "team": "Philadelphia 76ers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png"
+        },
+        "link": "https://overcast.fm/+AAOPdtDNhxc/26:50"
+      },
+      "2022": {
+        "first": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "second": {
+          "name": "Mikal Bridges",
+          "team": "Phoenix Suns",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
+        },
+        "link": "https://overcast.fm/+AAOPduIx4v0/4:43"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/19:49",
+        "first": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/21:53",
+        "third": {
+          "name": "Jaden McDaniels",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+        },
+        "first": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "second": {
+          "name": "Herb Jones",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
+        }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/18:28",
+        "third": {
+          "name": "Kris Dunn",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+        },
+        "second": {
+          "name": "Amen Thompson",
+          "team": "Houston Rockets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png"
+        },
+        "first": {
+          "name": "Luguentz Dort",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/23:22",
+        "third": {
+          "name": "Alex Caruso",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "second": {
+          "name": "Luguentz Dort",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png"
+        },
+        "first": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+        }
+      }
+    },
+    "switchable_defender": {
+      "2020": {
+        "first": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "third": {
+          "name": "Robert Covington",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203496.png"
+        },
+        "second": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        },
+        "link": "https://overcast.fm/+AAOPdtDNhxc/36:45"
+      },
+      "2022": {
+        "first": {
+          "name": "Bam Adebayo",
+          "team": "Miami Heat",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+        },
+        "second": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "link": "https://overcast.fm/+AAOPduIx4v0/19:48"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/56:39",
+        "third": {
+          "name": "Jaden McDaniels",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+        },
+        "second": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "first": {
+          "name": "Bam Adebayo",
+          "team": "Miami Heat",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+        }
+      }
+    },
+    "iso_defender": {
+      "2020": {
+        "first": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        },
+        "third": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "second": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "link": "https://overcast.fm/+AAOPdtDNhxc/43:52"
+      },
+      "2022": {
+        "first": {
+          "name": "Mikal Bridges",
+          "team": "Phoenix Suns",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
+        },
+        "second": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "third": {
+          "name": "Marcus Smart",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+        },
+        "link": "https://overcast.fm/+AAOPduIx4v0/10:24"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/47:56",
+        "third": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+          "name": "Jaden McDaniels",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+        },
+        "first": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        }
+      }
+    },
+    "highest_motor": {
+      "2022": {
+        "first": {
+          "name": "Jarred Vanderbilt",
+          "team": "Minnesota Timberwolves",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        },
+        "second": {
+          "name": "Gary Payton II",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png"
+        },
+        "third": {
+          "name": "Giannis Antentokounmpo",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+        },
+        "link": "https://overcast.fm/+AAOPduIx4v0/29:18"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/43:34",
+        "third": {
+          "name": "Mikal Bridges, Draymond Green, Jrue Holiday",
+          "team": "Three-way Tie",
+          "headshot_url": ""
+        },
+        "second": {
+          "name": "Jose Alvarado",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png"
+        },
+        "first": {
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/3:18",
+        "second": {
+          "name": "Alex Caruso, Jose Alvarado, Jrue Holiday",
+          "team": "Three-way Tie",
+          "headshot_url": ""
+        },
+        "first": {
+          "name": "Jalen Suggs",
+          "team": "Orlando Magic",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png"
+        },
+        "third": {
+          "name": "",
+          "team": "",
+          "headshot_url": ""
+        }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/3:35",
+        "second": {
+          "name": "Toumani Camara",
+          "team": "Portland Trail Blazers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png"
+        },
+        "first": {
+          "name": "Kris Dunn",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+        },
+        "third": {
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/4:02",
+        "third": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+        },
+        "second": {
+          "name": "Hugo Gonzales",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642864.png"
+        },
+        "first": {
+          "name": "Derrick White",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"
+        }
+      }
+    },
+    "best_hands": {
+      "2022": {
+        "first": {
+          "name": "Gary Payton II",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png"
+        },
+        "second": {
+          "name": "Nikola Joki\u0107",
+          "team": "Denver Nuggets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
+        },
+        "third": {
+          "name": "Matisse Thybulle",
+          "team": "Philadelphia 76ers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
+        },
+        "link": "https://overcast.fm/+AAOPduIx4v0/36:49"
+      },
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/12:41",
+        "first": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "second": {
+          "name": "Jose Alvarado",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png"
+        },
+        "third": {
+          "name": "Fred Vanvleet",
+          "team": "Toronto Raptors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png"
+        }
+      },
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/12:28",
+        "third": {
+          "name": "Fred Vanvleet",
+          "team": "Houston Rockets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png"
+        },
+        "second": {
+          "name": "Alex Caruso",
+          "team": "Chicago Bulls",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "first": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/12:02",
+        "first": {
+          "name": "Dyson Daniels",
+          "team": "Atlanta Hawks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+        },
+        "third": {
+          "name": "Amen Thompson",
+          "team": "Houston Rockets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png"
+        },
+        "second": {
+          "name": "Kris Dunn",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/12:01",
+        "third": {
+          "name": "Dyson Daniels",
+          "team": "Atlanta Hawks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+        },
+        "second": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+        },
+        "first": {
+          "name": "Cason Wallace",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641717.png"
+        }
+      }
+    },
+    "screen_nav": {
+      "2023": {
+        "link": "https://overcast.fm/+AAOPdv9Wa18/37:16",
+        "first": {
+          "name": "Jrue Holiday",
+          "team": "Milwaukee Bucks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+        },
+        "second": {
+          "name": "Kentavious Caldwell-Pope",
+          "team": "Denver Nuggets",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png"
+        },
+        "third": {
+          "name": "Jarred Vanderbilt",
+          "team": "Los Angeles Lakers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+        }
+      }
+    },
+    "perim_helper": {
+      "2024": {
+        "link": "https://overcast.fm/+AAOPduwqdXw/40:54",
+        "third": {
+          "name": "Paul George, Jrue Holiday, Andrew Nembhard, Jonathan Isaac",
+          "team": "4-way Tie",
+          "headshot_url": ""
+        },
+        "second": {
+          "name": "Kawhi Leonard",
+          "team": "Los Angeles Clippers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+        },
+        "first": {
+          "name": "Herb Jones",
+          "team": "New Orleans Pelicans",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
+        }
+      },
+      "2025": {
+        "third": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "link": "https://overcast.fm/+AAOPdvgqUzw/30:40",
+        "first": {
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png",
+          "name": "Jalen Williams",
+          "team": "Oklahoma City Thunder"
+        },
+        "second": {
+          "name": "Dyson Daniels",
+          "team": "Atlanta Hawks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/1:05:16",
+        "third": {
+          "name": "Ausar Thompson",
+          "team": "Detroit Pistons",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+        },
+        "second": {
+          "name": "Alex Caruso",
+          "team": "Oklahoma City Thunder",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+        },
+        "first": {
+          "name": "Derrick White",
+          "team": "Boston Celtics",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"
+        }
+      }
+    },
+    "vers_defender": {
+      "2024": {
+        "third": {
+          "name": "Bam Adebayo",
+          "team": "Miami Heat",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+        },
+        "link": "https://overcast.fm/+AAOPduwqdXw/54:23",
+        "second": {
+          "name": "Jonathan Isaac",
+          "team": "Orlando Magic",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png"
+        },
+        "first": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        }
+      },
+      "2025": {
+        "link": "https://overcast.fm/+AAOPdvgqUzw/41:21",
+        "third": {
+          "name": "Evan Mobley",
+          "team": "Cleveland Cavaliers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png"
+        },
+        "second": {
+          "name": "Toumani Camara",
+          "team": "Portland Trail Blazers",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png"
+        },
+        "first": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        }
+      },
+      "2026": {
+        "link": "https://overcast.fm/+AAOPdv42IDg/39:12",
+        "third": {
+          "name": "OG Anunoby",
+          "team": "New York Knicks",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png"
+        },
+        "second": {
+          "name": "Draymond Green",
+          "team": "Golden State Warriors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+        },
+        "first": {
+          "name": "Scottie Barnes",
+          "team": "Toronto Raptors",
+          "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png"
+        }
+      }
+    }
+  },
+  "descriptions": {
+    "paint_defender": "Who is the best at contesting and deterring shots in and around the paint?",
+    "nail_defender": "Who is the best at preventing the offense from getting into and scoring in the nail area of the floor?",
+    "poa_defender": "Who is the best at containing penetration, navigating screens, and generally defending the primary ball handler?",
+    "switchable_defender": "Who is the best player at defending across multiple different positions?",
+    "iso_defender": "Who is the best defender in isolation situations, from the perimeter to the post?",
+    "highest_motor": "Who is the player who plays a lot and is constantly active on defensive possessions?",
+    "best_hands": "Who is the player with the most active, accurate, disruptive hands in a short space?",
+    "screen_nav": "Who is the best at chasing some around screens both on- and off-ball?",
+    "perim_helper": "Who is the best at getting in passing lanes, zoning up the weak side, and generally helping from the nail area and edges of the court?",
+    "vers_defender": "Who can succeed in the widest variety of coverages and guard multiple positions if necessary?"
+  },
+  "years": {
+    "2020": [
+      "iso_defender",
+      "nail_defender",
+      "paint_defender",
+      "poa_defender",
+      "switchable_defender"
+    ],
+    "2022": [
+      "best_hands",
+      "highest_motor",
+      "iso_defender",
+      "nail_defender",
+      "paint_defender",
+      "poa_defender",
+      "switchable_defender"
+    ],
+    "2023": [
+      "best_hands",
+      "highest_motor",
+      "iso_defender",
+      "nail_defender",
+      "paint_defender",
+      "poa_defender",
+      "screen_nav",
+      "switchable_defender"
+    ],
+    "2024": [
+      "best_hands",
+      "highest_motor",
+      "paint_defender",
+      "perim_helper",
+      "poa_defender",
+      "vers_defender"
+    ],
+    "2025": [
+      "best_hands",
+      "highest_motor",
+      "paint_defender",
+      "perim_helper",
+      "poa_defender",
+      "vers_defender"
+    ],
+    "2026": [
+      "best_hands",
+      "highest_motor",
+      "paint_defender",
+      "perim_helper",
+      "poa_defender",
+      "vers_defender"
+    ]
+  },
+  "players": {
+    "Rudy Gobert": {
+      "first": [
+        [
+          "paint_defender",
+          "2020"
+        ],
+        [
+          "paint_defender",
+          "2022"
+        ],
+        [
+          "paint_defender",
+          "2024"
+        ]
+      ],
+      "second": [
+        [
+          "paint_defender",
+          "2025"
+        ],
+        [
+          "paint_defender",
+          "2026"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+    },
+    "Brook Lopez": {
+      "first": [
+        [
+          "paint_defender",
+          "2023"
+        ]
+      ],
+      "second": [
+        [
+          "paint_defender",
+          "2020"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png"
+    },
+    "Anthony Davis": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "paint_defender",
+          "2020"
+        ],
+        [
+          "paint_defender",
+          "2024"
+        ],
+        [
+          "paint_defender",
+          "2025"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png"
+    },
+    "Jarrett Allen": {
+      "first": [],
+      "second": [
+        [
+          "paint_defender",
+          "2022"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png"
+    },
+    "Giannis Antentokounmpo": {
+      "first": [
+        [
+          "switchable_defender",
+          "2020"
+        ]
+      ],
+      "second": [
+        [
+          "poa_defender",
+          "2020"
+        ]
+      ],
+      "third": [
+        [
+          "paint_defender",
+          "2022"
+        ],
+        [
+          "iso_defender",
+          "2020"
+        ],
+        [
+          "highest_motor",
+          "2022"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png"
+    },
+    "Jaren Jackson Jr.": {
+      "first": [],
+      "second": [
+        [
+          "paint_defender",
+          "2023"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png"
+    },
+    "Draymond Green": {
+      "first": [
+        [
+          "iso_defender",
+          "2023"
+        ],
+        [
+          "vers_defender",
+          "2024"
+        ],
+        [
+          "vers_defender",
+          "2025"
+        ]
+      ],
+      "second": [
+        [
+          "switchable_defender",
+          "2022"
+        ],
+        [
+          "switchable_defender",
+          "2023"
+        ],
+        [
+          "vers_defender",
+          "2026"
+        ]
+      ],
+      "third": [
+        [
+          "paint_defender",
+          "2023"
+        ],
+        [
+          "highest_motor",
+          "2023"
+        ],
+        [
+          "perim_helper",
+          "2025"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+    },
+    "Victor Wembanyama": {
+      "first": [
+        [
+          "paint_defender",
+          "2025"
+        ],
+        [
+          "paint_defender",
+          "2026"
+        ]
+      ],
+      "second": [
+        [
+          "paint_defender",
+          "2024"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641705.png"
+    },
+    "Chet Holmgren": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "paint_defender",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png"
+    },
+    "Marcus Smart": {
+      "first": [
+        [
+          "nail_defender",
+          "2020"
+        ],
+        [
+          "poa_defender",
+          "2020"
+        ]
+      ],
+      "second": [
+        [
+          "nail_defender",
+          "2022"
+        ],
+        [
+          "iso_defender",
+          "2020"
+        ]
+      ],
+      "third": [
+        [
+          "poa_defender",
+          "2022"
+        ],
+        [
+          "poa_defender",
+          "2023"
+        ],
+        [
+          "switchable_defender",
+          "2022"
+        ],
+        [
+          "iso_defender",
+          "2022"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+    },
+    "Jayson Tatum": {
+      "first": [],
+      "second": [
+        [
+          "nail_defender",
+          "2020"
+        ]
+      ],
+      "third": [
+        [
+          "nail_defender",
+          "2022"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png"
+    },
+    "Paul George": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "nail_defender",
+          "2020"
+        ],
+        [
+          "perim_helper",
+          "2024"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png"
+    },
+    "Matisse Thybulle": {
+      "first": [
+        [
+          "nail_defender",
+          "2022"
+        ]
+      ],
+      "second": [],
+      "third": [
+        [
+          "best_hands",
+          "2022"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png"
+    },
+    "Jrue Holiday": {
+      "first": [
+        [
+          "nail_defender",
+          "2023"
+        ],
+        [
+          "poa_defender",
+          "2023"
+        ],
+        [
+          "screen_nav",
+          "2023"
+        ]
+      ],
+      "second": [
+        [
+          "iso_defender",
+          "2022"
+        ],
+        [
+          "highest_motor",
+          "2024"
+        ]
+      ],
+      "third": [
+        [
+          "iso_defender",
+          "2023"
+        ],
+        [
+          "highest_motor",
+          "2023"
+        ],
+        [
+          "perim_helper",
+          "2024"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+    },
+    "Herb Jones": {
+      "first": [
+        [
+          "perim_helper",
+          "2024"
+        ]
+      ],
+      "second": [
+        [
+          "nail_defender",
+          "2023"
+        ],
+        [
+          "poa_defender",
+          "2024"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png"
+    },
+    "Jarred Vanderbilt": {
+      "first": [
+        [
+          "highest_motor",
+          "2022"
+        ],
+        [
+          "highest_motor",
+          "2023"
+        ]
+      ],
+      "second": [],
+      "third": [
+        [
+          "nail_defender",
+          "2023"
+        ],
+        [
+          "highest_motor",
+          "2025"
+        ],
+        [
+          "screen_nav",
+          "2023"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png"
+    },
+    "Ben Simmons": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "poa_defender",
+          "2020"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png"
+    },
+    "Alex Caruso": {
+      "first": [
+        [
+          "poa_defender",
+          "2022"
+        ],
+        [
+          "poa_defender",
+          "2024"
+        ],
+        [
+          "best_hands",
+          "2023"
+        ]
+      ],
+      "second": [
+        [
+          "poa_defender",
+          "2023"
+        ],
+        [
+          "highest_motor",
+          "2024"
+        ],
+        [
+          "best_hands",
+          "2024"
+        ],
+        [
+          "perim_helper",
+          "2026"
+        ]
+      ],
+      "third": [
+        [
+          "poa_defender",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+    },
+    "Mikal Bridges": {
+      "first": [
+        [
+          "iso_defender",
+          "2022"
+        ]
+      ],
+      "second": [
+        [
+          "poa_defender",
+          "2022"
+        ]
+      ],
+      "third": [
+        [
+          "highest_motor",
+          "2023"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png"
+    },
+    "Jaden McDaniels": {
+      "first": [],
+      "second": [
+        [
+          "iso_defender",
+          "2023"
+        ]
+      ],
+      "third": [
+        [
+          "poa_defender",
+          "2024"
+        ],
+        [
+          "switchable_defender",
+          "2023"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png"
+    },
+    "Luguentz Dort": {
+      "first": [
+        [
+          "poa_defender",
+          "2025"
+        ]
+      ],
+      "second": [
+        [
+          "poa_defender",
+          "2026"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png"
+    },
+    "Amen Thompson": {
+      "first": [],
+      "second": [
+        [
+          "poa_defender",
+          "2025"
+        ]
+      ],
+      "third": [
+        [
+          "best_hands",
+          "2025"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641708.png"
+    },
+    "Kris Dunn": {
+      "first": [
+        [
+          "highest_motor",
+          "2025"
+        ]
+      ],
+      "second": [
+        [
+          "best_hands",
+          "2025"
+        ]
+      ],
+      "third": [
+        [
+          "poa_defender",
+          "2025"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627739.png"
+    },
+    "Ausar Thompson": {
+      "first": [
+        [
+          "poa_defender",
+          "2026"
+        ]
+      ],
+      "second": [
+        [
+          "best_hands",
+          "2026"
+        ]
+      ],
+      "third": [
+        [
+          "highest_motor",
+          "2026"
+        ],
+        [
+          "perim_helper",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641709.png"
+    },
+    "Kawhi Leonard": {
+      "first": [
+        [
+          "iso_defender",
+          "2020"
+        ],
+        [
+          "best_hands",
+          "2024"
+        ]
+      ],
+      "second": [
+        [
+          "switchable_defender",
+          "2020"
+        ],
+        [
+          "perim_helper",
+          "2024"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png"
+    },
+    "Robert Covington": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "switchable_defender",
+          "2020"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203496.png"
+    },
+    "Bam Adebayo": {
+      "first": [
+        [
+          "switchable_defender",
+          "2022"
+        ],
+        [
+          "switchable_defender",
+          "2023"
+        ]
+      ],
+      "second": [],
+      "third": [
+        [
+          "vers_defender",
+          "2024"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png"
+    },
+    "Gary Payton II": {
+      "first": [
+        [
+          "best_hands",
+          "2022"
+        ]
+      ],
+      "second": [
+        [
+          "highest_motor",
+          "2022"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png"
+    },
+    "Jose Alvarado": {
+      "first": [],
+      "second": [
+        [
+          "highest_motor",
+          "2023"
+        ],
+        [
+          "highest_motor",
+          "2024"
+        ],
+        [
+          "best_hands",
+          "2023"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png"
+    },
+    "Jalen Suggs": {
+      "first": [
+        [
+          "highest_motor",
+          "2024"
+        ]
+      ],
+      "second": [],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png"
+    },
+    "Toumani Camara": {
+      "first": [],
+      "second": [
+        [
+          "highest_motor",
+          "2025"
+        ],
+        [
+          "vers_defender",
+          "2025"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641739.png"
+    },
+    "Derrick White": {
+      "first": [
+        [
+          "highest_motor",
+          "2026"
+        ],
+        [
+          "perim_helper",
+          "2026"
+        ]
+      ],
+      "second": [],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png"
+    },
+    "Hugo Gonzales": {
+      "first": [],
+      "second": [
+        [
+          "highest_motor",
+          "2026"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1642864.png"
+    },
+    "Nikola Joki\u0107": {
+      "first": [],
+      "second": [
+        [
+          "best_hands",
+          "2022"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png"
+    },
+    "Fred Vanvleet": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "best_hands",
+          "2023"
+        ],
+        [
+          "best_hands",
+          "2024"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png"
+    },
+    "Dyson Daniels": {
+      "first": [
+        [
+          "best_hands",
+          "2025"
+        ]
+      ],
+      "second": [
+        [
+          "perim_helper",
+          "2025"
+        ]
+      ],
+      "third": [
+        [
+          "best_hands",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png"
+    },
+    "Cason Wallace": {
+      "first": [
+        [
+          "best_hands",
+          "2026"
+        ]
+      ],
+      "second": [],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1641717.png"
+    },
+    "Kentavious Caldwell-Pope": {
+      "first": [],
+      "second": [
+        [
+          "screen_nav",
+          "2023"
+        ]
+      ],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png"
+    },
+    "Andrew Nembhard": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "perim_helper",
+          "2024"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.png"
+    },
+    "Jonathan Isaac": {
+      "first": [],
+      "second": [
+        [
+          "vers_defender",
+          "2024"
+        ]
+      ],
+      "third": [
+        [
+          "perim_helper",
+          "2024"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png"
+    },
+    "Jalen Williams": {
+      "first": [
+        [
+          "perim_helper",
+          "2025"
+        ]
+      ],
+      "second": [],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png"
+    },
+    "Evan Mobley": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "vers_defender",
+          "2025"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png"
+    },
+    "Scottie Barnes": {
+      "first": [
+        [
+          "vers_defender",
+          "2026"
+        ]
+      ],
+      "second": [],
+      "third": [],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png"
+    },
+    "OG Anunoby": {
+      "first": [],
+      "second": [],
+      "third": [
+        [
+          "vers_defender",
+          "2026"
+        ]
+      ],
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png"
+    }
+  },
+  "top_5": {
+    "first": {
+      "name": "Alex Caruso",
+      "points": 18,
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png"
+    },
+    "second": {
+      "name": "Draymond Green",
+      "points": 18,
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png"
+    },
+    "third": {
+      "name": "Jrue Holiday",
+      "points": 16,
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png"
+    },
+    "fourth": {
+      "name": "Marcus Smart",
+      "points": 14,
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png"
+    },
+    "fifth": {
+      "name": "Rudy Gobert",
+      "points": 13,
+      "headshot_url": "https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png"
+    }
+  }
+};
